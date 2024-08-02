@@ -1,0 +1,26 @@
+.pancho-container {
+    width: 300px;
+    margin: 50px auto; 
+    display: flex;
+    justify-content: space-between;
+}
+.pan1 {
+    width: 90px;
+    height: 500px;
+    background-color: #FFD700;
+    border: 5px solid #CD853F; 
+    border-radius: 30px;
+}
+.pan2 {
+    width: 90px;
+    height: 500px;
+    background-color: #FFD700;
+    border: 5px solid #CD853F; 
+    border-radius: 30px;
+}
+.salchicha {
+    background-color: #FF5733;
+    width: 100px;
+    height: 500px; 
+    border-radius: 50px;
+}
