@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+#cabecera {
+    text-align: center;
+    background-color:rgb(255, 158, 228);
+    font-weight: bold;
+    border: 2px solid rgb(255, 147, 147);
+    padding: 20px;
+}
+.carnivoros {
+    background-color: rgb(255, 2, 2);
+    border: 2px solid rgb(255, 135, 135);
+    padding: 30px;
+    margin: 25px;
+    letter-spacing: 2px;
+}
+.herbivoros {
+    background-color: rgb(239, 243, 8);
+    border: 2px solid rgb(12, 110, 7);
+    padding: 30px;
+    margin: 25px;
+    letter-spacing: 2px;
+}
+h2 {
+    text-align: center;
+    letter-spacing: 5px;
+    text-decoration: underline;
+}
+#T-rex {
+    font-size: 24px;
+    color: rgb(255, 9, 153);
+}
+#triceratop {
+    font-weight: bold;
+    text-decoration: underline;
+}
+.voladores {
+    background-color: deepskyblue;
+    text-shadow: rgb(180, 157, 157) 0 3px;
+    border: 2px solid black;
+    padding: 30px;
+    margin: 25px;
+    letter-spacing: 2px;
+}
+.acuaticos {
+    background-color: rgb(13, 1, 255);
+    color: rgb(0, 247, 255);
+    font-style:italic;
+    border: 2px solid black;
+    padding: 30px;
+    margin: 25px;
+    letter-spacing: 2px;
+}
+.dinosaur-section {
+    text-align: center;
+    color: rgb(0, 0, 0);
+}

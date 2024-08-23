@@ -1,0 +1,56 @@
+#Vader {
+    font-style: italic;
+    font-size: 40px;
+}
+#luke {
+    font-style: italic;
+    font-size: 40px;
+}
+img {
+    border: 2px solid rgba(219, 219, 219, 0.438);
+}
+header {
+    text-align: center;
+    border: 2px solid yellow;
+    background-image: url('https://e0.pxfuel.com/wallpapers/804/170/desktop-wallpaper-star-wars-star-background-best-background-star-wars-universe.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+
+  
+}
+body {
+    background-color: black;
+    color: rgb(255, 247, 0);
+}
+.imperio {
+    font-size: 30px;
+    background-color: rgb(116, 0, 0);
+    border: 2px rgb(56, 0, 0);
+    text-align: center;
+    letter-spacing: 10px;
+    margin: 30px;
+}
+.rebeldes {
+    font-size: 30px;
+    background-color: blue;
+    border: 2px yellow;
+    text-align: center;
+    letter-spacing: 10px;
+    margin: 30px;
+}
+.apoyo {
+    text-align: center;
+    background-color: rgba(169, 169, 169, 0.289);
+    border: 2px solid black;
+    margin: 30px;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+.nave {
+    text-transform: uppercase;
+    margin: 30px;
+}
+h1 {
+    text-align: center;
+}
