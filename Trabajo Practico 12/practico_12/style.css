@@ -1,0 +1,19 @@
+
+body{
+    background-image: url(./casa.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+.container{
+    color: white;
+
+}
+
+.main{
+    padding: 1%;
+    text-align: center;
+}
+
+button{
+    margin: auto;
+}
