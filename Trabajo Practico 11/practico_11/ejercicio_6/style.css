@@ -1,0 +1,16 @@
+.fondo{
+    width: 1300px;
+    height: 100%;
+    border: 4px solid black;
+    background-color: rgb(148, 148, 148);
+}
+
+#azul, #gato,
+#rojo{
+    width: 10%;
+}
+
+hr{
+    border-color: yellow;
+    border-style: dashed;
+}

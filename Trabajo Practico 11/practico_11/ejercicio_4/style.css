@@ -1,0 +1,13 @@
+body{
+    background: url(https://resizer.glanacion.com/resizer/v2/foto-de-una-cocina-con-muebles-bacha-letrero-ZGNRN6W7G5HPHE74TPDICGL5JA.jpg?auth=04d07e37e1b88310aa2de192f2080c450f5c51dcd2908f3483258c0d398beca2&width=768&quality=70&smart=false);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    cursor: none;
+
+}
+
+.posicion{
+    position: fixed;
+    transition: 2s;
+}
