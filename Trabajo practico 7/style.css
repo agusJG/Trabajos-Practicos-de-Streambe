@@ -1,0 +1,111 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+#nav {
+  padding: 10px;
+}
+#encabezado {
+  width: 100%;
+  background-color: rgb(252, 141, 31);
+  text-align: center;
+  padding: 20px;
+}
+#perfil {
+  padding: 20px;
+  height: auto;
+  width: 30%;
+  border-radius: 50%;
+}
+#Portfolio {
+  padding: 20px;
+  text-align: center;
+  background-color: rgb(231, 218, 105);
+}
+.container {
+  justify-content: center;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.contInfo {
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 10vh;
+}
+.datos {
+  flex-basis: 50%;
+  flex-direction: column;
+}
+img {
+  max-width: 100%;
+  height: auto;
+  border: 1px solid black;
+  border-radius: 20%;
+}
+.img-columna {
+  flex-basis: 33.3%;
+  padding: 10px;
+  height: auto;
+  width: 40vh;
+}
+#Miperfil {
+  background-color: rgb(252, 141, 31);
+  text-align: center;
+  padding: 40px;
+}
+#text {
+  margin-left: 10vh;
+  margin-right: 10vh;
+}
+h1 {
+  font-size: 2em;
+}
+h2 {
+  font-size: 1.9em;
+}
+h3 {
+  font-size: 1.8em;
+}
+h4 {
+  font-size: 1.7em;
+}
+p {
+  font-size: 1em;
+}
+#contacto {
+  padding: 15vh;
+  background-color: rgb(231, 218, 105);
+}
+form {
+  width: 100%;
+}
+.campo {
+  margin-bottom: 5px;
+}
+.campo label {
+  display: block;
+  margin-bottom: 5px;
+}
+.campo textarea {
+  resize: vertical;
+}
+.campo input,
+.campo textarea {
+  width: 100%;
+  padding: 5px;
+  box-sizing: border-box;
+}
+#enviar {
+  padding: 5px;
+}
+#final {
+  background-color: rgb(252, 141, 31);
+}
+#Copyright {
+  padding: 15px;
+  background-color: rgb(188, 95, 3);
+  text-align: center;
+}
